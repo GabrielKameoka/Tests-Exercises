@@ -1,0 +1,15 @@
+/Users/mitsurukameoka/dev/Tests-Exercises/Arrays/SlidingWindow/TamanhoFixo/TamanhoFixo/bin/Debug/net10.0/TamanhoFixo
+/Users/mitsurukameoka/dev/Tests-Exercises/Arrays/SlidingWindow/TamanhoFixo/TamanhoFixo/bin/Debug/net10.0/TamanhoFixo.deps.json
+/Users/mitsurukameoka/dev/Tests-Exercises/Arrays/SlidingWindow/TamanhoFixo/TamanhoFixo/bin/Debug/net10.0/TamanhoFixo.runtimeconfig.json
+/Users/mitsurukameoka/dev/Tests-Exercises/Arrays/SlidingWindow/TamanhoFixo/TamanhoFixo/bin/Debug/net10.0/TamanhoFixo.dll
+/Users/mitsurukameoka/dev/Tests-Exercises/Arrays/SlidingWindow/TamanhoFixo/TamanhoFixo/bin/Debug/net10.0/TamanhoFixo.pdb
+/Users/mitsurukameoka/dev/Tests-Exercises/Arrays/SlidingWindow/TamanhoFixo/TamanhoFixo/obj/Debug/net10.0/TamanhoFixo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mitsurukameoka/dev/Tests-Exercises/Arrays/SlidingWindow/TamanhoFixo/TamanhoFixo/obj/Debug/net10.0/TamanhoFixo.AssemblyInfoInputs.cache
+/Users/mitsurukameoka/dev/Tests-Exercises/Arrays/SlidingWindow/TamanhoFixo/TamanhoFixo/obj/Debug/net10.0/TamanhoFixo.AssemblyInfo.cs
+/Users/mitsurukameoka/dev/Tests-Exercises/Arrays/SlidingWindow/TamanhoFixo/TamanhoFixo/obj/Debug/net10.0/TamanhoFixo.csproj.CoreCompileInputs.cache
+/Users/mitsurukameoka/dev/Tests-Exercises/Arrays/SlidingWindow/TamanhoFixo/TamanhoFixo/obj/Debug/net10.0/TamanhoFixo.sourcelink.json
+/Users/mitsurukameoka/dev/Tests-Exercises/Arrays/SlidingWindow/TamanhoFixo/TamanhoFixo/obj/Debug/net10.0/TamanhoFixo.dll
+/Users/mitsurukameoka/dev/Tests-Exercises/Arrays/SlidingWindow/TamanhoFixo/TamanhoFixo/obj/Debug/net10.0/refint/TamanhoFixo.dll
+/Users/mitsurukameoka/dev/Tests-Exercises/Arrays/SlidingWindow/TamanhoFixo/TamanhoFixo/obj/Debug/net10.0/TamanhoFixo.pdb
+/Users/mitsurukameoka/dev/Tests-Exercises/Arrays/SlidingWindow/TamanhoFixo/TamanhoFixo/obj/Debug/net10.0/TamanhoFixo.genruntimeconfig.cache
+/Users/mitsurukameoka/dev/Tests-Exercises/Arrays/SlidingWindow/TamanhoFixo/TamanhoFixo/obj/Debug/net10.0/ref/TamanhoFixo.dll
