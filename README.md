@@ -1,4 +1,4 @@
-# LeetCode Solutions in C# 
+# LeetCode and POO Solutions for Interview
 
 A collection of LeetCode problem solutions implemented in C#/Python/JS, organized by topic.
 
